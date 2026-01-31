@@ -1,6 +1,6 @@
 # general-conference-footnotes-db
 This repo contains the data used for a research project that analyzes the footnotes of LDS General Conference addresses.
-(A link to the published journal article will be here when it's published.)
+https://rsc.byu.edu/vol-24-no-2-2023/how-beautiful-are-feet
 
 "Conference Footnotes (April 2022).tsv" is a tab-delimited file which can be downloaded and opened in Google Sheets, Excel, or another spreadsheet app. This file only contains the footnotes until April 2022's conference. Each row contains a record for one footnote. The description of the columns are as follows:
 
